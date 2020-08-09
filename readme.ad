@@ -1,5 +1,7 @@
 
-# what is this
+:imagesdir::img/
+
+= what is this
 
 A proof-of-concept showing Git as a useful tool for working with prose, not just code.
 
@@ -8,9 +10,12 @@ Partially inspired by
 - https://medium.com/hackernoon/living-the-future-of-technical-writing-2f368bd0a272
 - 
 
-# Example 1
+= Example 1
 
 1) Check out the open PR from `example1-pr` into this branch.
 
 2) Check out Github's rich diff view, using this button:
 
+:image::rich_diff_button.png[]
+
+3) Check out some of the other screenshots
