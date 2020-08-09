@@ -1,10 +1,10 @@
 
 ifdef::env-github[]
-:imagesdir:https://github.com/aidanhmiles/git-prose/raw/example1/img/
+:imagesdir: https://github.com/aidanhmiles/git-prose/raw/example1/img/
 endif::[]
 
 ifndef::env-github[]
-:imagesdir:img/
+:imagesdir: img/
 endif::[]
 
 = what is this
