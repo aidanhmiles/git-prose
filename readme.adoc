@@ -1,6 +1,7 @@
+
 ifdef::env-github[]
 :imagesdir:https://github.com/aidanhmiles/git-prose/raw/example1/img/
-enddif::[]
+endif::[]
 
 ifndef::env-github[]
 :imagesdir:img/
