@@ -1,5 +1,5 @@
 
-:imagesdir::img/
+:imagesdir:img/
 
 = what is this
 
@@ -16,6 +16,6 @@ Partially inspired by
 
 2) Check out Github's rich diff view, using this button:
 
-:image::rich_diff_button.png[]
+:image:rich_diff_button.png[]
 
 3) Check out some of the other screenshots
